@@ -6,6 +6,7 @@
         "johnpbloch/wordpress": "^6.7.0",
         "humanmade/s3-uploads": "^3.0.7",
         "wpackagist-plugin/wp-super-cache":"^3.0.0",
+        "wpackagist-plugin/elementor":"^3.29.2",
         "wpackagist-plugin/woocommerce":"^9.9.3",
         "wpackagist-plugin/essential-addons-for-elementor-lite":"^6.1.18",
         "wpackagist-plugin/google-site-kit":"^1.154.0",
