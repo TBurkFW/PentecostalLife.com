@@ -4,7 +4,8 @@
     "require": {
         "composer/installers": "^2.2",
         "johnpbloch/wordpress": "^6.7.0",
-        "humanmade/s3-uploads": "^3.0.7"
+        "humanmade/s3-uploads": "^3.0.7",
+        "wpackagist-theme/hello-elementor":"^3.4.4"
     },
     "autoload": {
         "psr-4": {
