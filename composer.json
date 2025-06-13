@@ -7,6 +7,7 @@
         "humanmade/s3-uploads": "^3.0.7",
         "wpackagist-plugin/wp-super-cache":"^2.0.0",
         "wpackagist-plugin/elementor":"^3.27.0",
+        "wpackagist-plugin/woocommerce":"^9.9.3",
         "wpackagist-plugin/essential-addons-for-elementor-lite":"^6.1.1",
         "wpackagist-plugin/google-site-kit":"^1.144.0",
         "wpackagist-plugin/jetpack":"^14.2.1",
