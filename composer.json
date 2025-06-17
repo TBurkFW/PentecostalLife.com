@@ -19,6 +19,7 @@
         "wpackagist-plugin/redirection":"^5.5.2",
         "wpackagist-plugin/code-snippets":"^3.6.8",
         "wpackagist-plugin/wp-ultimate-csv-importer":"^7.21.3",
+        "wpackagist-plugin/wp-ultimate-exporter":"^2.16.2",
         "wpackagist-plugin/safe-svg":"^2.3.1"
     },
     "autoload": {
