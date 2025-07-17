@@ -9,6 +9,7 @@
         "wpackagist-plugin/elementor":"^3.29.2",
         "wpackagist-plugin/woocommerce":"^9.9.3",
         "wpackagist-plugin/woocommerce-gateway-stripe":"^9.5.3",
+        "wpackagist-plugin/woocommerce-product-price-based-on-countries":"^4.0.8",
         "wpackagist-plugin/essential-addons-for-elementor-lite":"^6.1.18",
         "wpackagist-plugin/google-site-kit":"^1.154.0",
         "wpackagist-plugin/jetpack":"^14.7",
