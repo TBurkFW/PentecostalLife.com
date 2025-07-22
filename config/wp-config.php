@@ -80,7 +80,6 @@ $table_prefix = 'wp_';
  */
 define('WP_DEBUG', false);
 define('ENABLE_CACHE', true);
-define( 'FS_METHOD', 'direct' );
 
 /* Add any custom values between this line and the "stop editing" line. */
 
@@ -110,6 +109,7 @@ define('SMTP_DEBUG', 0);
 define('WP_AUTO_UPDATE_CORE', false);
 
 require_once __DIR__ . '/../vendor/autoload.php';
+define( 'FS_METHOD', 'direct' );
 
 /* That's all, stop editing! Happy publishing. */
 
