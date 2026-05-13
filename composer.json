@@ -8,7 +8,7 @@
         "wpackagist-plugin/wp-super-cache":"3.0.2",
         "wpackagist-plugin/elementor":"3.32.5",
         "wpackagist-plugin/woocommerce":"10.6.0",
-        "wpackagist-plugin/woocommerce-gateway-stripe":"9.9.2",
+        "wpackagist-plugin/woocommerce-gateway-stripe":"10.6.1",
         "wpackagist-plugin/woocommerce-product-price-based-on-countries":"4.0.11",
         "wpackagist-plugin/mailchimp-for-woocommerce":"5.6",
         "wpackagist-plugin/essential-addons-for-elementor-lite":"6.4.0",
